@@ -2,7 +2,7 @@
 A simple server on [Render.com](https://render.com) and route visualizer using a [Raspberry Pi Pico W](https://www.pishop.us/product/raspberry-pi-pico-w/) with a [Pimoroni Pico Display Pack](https://shop.pimoroni.com/products/pico-display-pack?variant=32368664215635)
 
 ## What is this?
-This helps for me to track the ETAs of Bay Area Rapid Transit train lines at the stop nearest my home.
+This lets me track the ETAs of Bay Area Rapid Transit train lines at the stop nearest my home. I can more efficiently plan walks to the station using this information.
 [Watch a brief demonstration video here](https://github.com/n4sky/bart-route-tracker/assets/8070562/3a1a7267-9eb4-40a0-8c67-ec2514572649)
 
 ## Why not use Google Maps?
